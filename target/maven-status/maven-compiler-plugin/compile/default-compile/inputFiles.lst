@@ -42,6 +42,7 @@
 /Users/bsridharpatnaik/Documents/GitHub/EC-inventory-service/src/main/java/com/ec/application/service/LostDamagedInventoryService.java
 /Users/bsridharpatnaik/Documents/GitHub/EC-inventory-service/src/main/java/com/ec/application/service/MachineryOnRentService.java
 /Users/bsridharpatnaik/Documents/GitHub/EC-inventory-service/src/main/java/com/ec/common/Filters/ProductSpecifications.java
+/Users/bsridharpatnaik/Documents/GitHub/EC-inventory-service/src/main/java/com/ec/application/data/CurrentStockRequest.java
 /Users/bsridharpatnaik/Documents/GitHub/EC-inventory-service/src/main/java/com/ec/application/data/MachineryOnRentWithDropdownData.java
 /Users/bsridharpatnaik/Documents/GitHub/EC-inventory-service/src/main/java/com/ec/application/service/ContractorService.java
 /Users/bsridharpatnaik/Documents/GitHub/EC-inventory-service/src/main/java/com/ec/application/controller/InwardInventoryController.java
