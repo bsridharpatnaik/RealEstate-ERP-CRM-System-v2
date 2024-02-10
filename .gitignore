@@ -59,3 +59,9 @@ sc-inventory-service/src/main/resources/application-sc-prod-new.properties
 sc-inventory-service/src/main/resources/application-sc-prod.properties
 sc-inventory-service/src/main/resources/application-sc-qa.properties
 sc-common-service/target/classes/application.properties
+sc-common-service/target/classes/application.properties
+sc-common-service/target/classes/application.properties
+sc-crm-service/src/main/java/com/ec/crm/ReusableClasses/ProjectConstants.java
+sc-crm-service/src/main/resources/application-ec-local.properties
+sc-crm-service/src/main/resources/application-ec-prod.properties
+sc-crm-service/src/main/resources/application-ec-qa.properties
